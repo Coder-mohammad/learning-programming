@@ -1,2 +1,2 @@
-# Daily-C
-Practicing C daily till I master it. 
+# learn programming till i reach the goal
+Practicing programming daily till I master it. 
